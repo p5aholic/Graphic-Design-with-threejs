@@ -1,1 +1,1 @@
-# threejs-graphic-design
+# Graphic Design with three.js
